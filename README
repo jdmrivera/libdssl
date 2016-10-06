@@ -1,5 +1,7 @@
 DSSL library: network capture and SSL decryption toolkit
 
+This version uses PF_RING for packet capture instead of libpcap. (Changes are in progresss)
+
 Copyright (C) 2007-2009 Atomic Labs, Inc.
 
 To view the installation documentation, load docs/index.html into your browser.
